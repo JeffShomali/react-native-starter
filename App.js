@@ -17,4 +17,3 @@ export default () => (
     <Text>Shake your phone to open the developer menu.</Text>
   </View>
 );
-
