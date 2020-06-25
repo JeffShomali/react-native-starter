@@ -1,4 +1,3 @@
-# React Native BoilerPlate
 # React Native Starter
 
 This project is a [React Native](https://facebook.github.io/react-native/) that can be used to kickstart a mobile application very quickly.
